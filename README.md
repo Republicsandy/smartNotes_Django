@@ -1,0 +1,1 @@
+# smartNotes_Django
